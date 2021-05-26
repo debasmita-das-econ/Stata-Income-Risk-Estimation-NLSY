@@ -79,9 +79,11 @@ rename Q10_32_02_`x' c2_yr2care`x'
 rename Q10_32_02_2012 	c2_yr2care2012
 
 * Age of Respondent
-*-------------------------------------------------------------------------------
-*Date of birth information was collected from each NLSY79 respondent during the 1979 and 1981 interviews. The variable 'Age of R,' gathered during the 1979-83 surveys, is the self-reported age of the respondent as of the interview date. The NLSY79 main data files also contain a yearly created variable, 'Age of R at Interview Date.' 
-*------------------------------------------------------------------------------- 
+*------------------------------------------------------------------------------------------------------------------------------------------
+* Date of birth information was collected from each NLSY79 respondent during the 1979 and 1981 interviews. 
+* The variable 'Age of R,' gathered during the 1979-83 surveys, is the self-reported age of the respondent as of the interview date.
+* The NLSY79 main data files also contain a yearly created variable, 'Age of R at Interview Date.' 
+*-------------------------------------------------------------------------------------------------------------------------------------------
 
 foreach x of numlist 1979 1980 1981 1982 1983 1984 1985 1986 1987 1988 1989 1990 1991 1992 1993 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 {
 rename AGEATINT_`x' age`x'

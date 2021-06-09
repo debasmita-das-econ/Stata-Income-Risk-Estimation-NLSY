@@ -11,7 +11,7 @@ RA Assignment for Prof. Trevor Gallen (Fall 2019)
 -  Output: nlsy_2019/nlsy_working.dta
 -  We can get the working data by running the dataclean.do file
 
-**incvariance.do:** estimates of contribution of motherhood to the size of permanent shocks
+**incvariance.do:** estimates contribution of motherhood to the size of permanent shocks
 - Data used: nlsy_2019/nlsy_working.dta 
 - Output: nlsy_2019/residual.dta
 

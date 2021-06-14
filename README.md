@@ -1,8 +1,8 @@
 # NLSY
 
-RA Assignment - Prof. Trevor Gallen (Fall 2019)
-
 **Used data from the NLSY to estimate contribution of motherhood to the size of permanent income shocks**
+
+RA Assignment - Prof. Trevor Gallen (Fall 2019)
 
 ### Data and Stata Files
 -  Original Datasets and Dictionary Files (under /nlsy_2019) are downloaded from https://www.nlsinfo.org/investigator/pages/search.jsp?s=NLSY79

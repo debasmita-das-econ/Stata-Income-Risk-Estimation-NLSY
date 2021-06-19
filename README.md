@@ -16,4 +16,4 @@ RA Assignment - Prof. Trevor Gallen (Fall 2019)
 - Output: nlsy_2019/residual.dta
 - Deflate nominal income variables using personal consumption expenditure, estimate residual income by performing regression, estimate variance of the permanent income shocks  
 
-**master.do:** run all .do files using one click
+**master.do:** runs all .do files using one click

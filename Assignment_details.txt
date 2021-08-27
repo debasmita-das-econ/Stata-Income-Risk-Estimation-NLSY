@@ -1,4 +1,4 @@
-RA assignment for Prof. Trevor Gallen, Fall 2019
+RA assignment under Prof. Trevor Gallen, Fall 2019
 Task : Use data from the NLSY to estimate contribution of motherhood to the size of permanent shocks
 Part 1 Instruction:
 1.	Go to the NLSY79 website (link)

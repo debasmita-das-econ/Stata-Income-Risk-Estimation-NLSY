@@ -7,7 +7,7 @@ RA Assignment - Prof. Trevor Gallen (Fall 2019)
 ### Data and Stata Files
 -  Original Datasets and Dictionary Files (under /nlsy_2019) are downloaded from https://www.nlsinfo.org/investigator/pages/search.jsp?s=NLSY79
 
-**dataclean.do:** Creates the raw dataset, reads in the dictionary file, keeps variables of interest, renames variables, constructs variables, cleans data.
+[`dataclean.do`](https://github.com/debasmita-das-econ/NLSY/blob/main/dataclean.do): Creates the raw dataset, reads in the dictionary file, keeps variables of interest, renames variables, constructs variables, cleans data.
 -  Output: nlsy_2019/nlsy_working.dta
 -  We can get the working data by running the dataclean.do file
 

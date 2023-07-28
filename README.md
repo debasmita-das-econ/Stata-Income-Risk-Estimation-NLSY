@@ -7,7 +7,7 @@ This repository contains STATA codes that I wrote for an RA Assignment for Prof.
 -  Original Datasets and Dictionary Files (under /nlsy_2019) are downloaded from [the NLSY investigator](https://www.nlsinfo.org/investigator/pages/search.jsp?s=NLSY79)
 
 ### Code
-* [`dataclean.do`](https://github.com/debasmita-das-econ/NLSY/blob/main/dataclean.do): Creates the raw dataset, reads in the dictionary file, keeps variables of interest, renames variables, constructs variables, cleans data.
+* [`dataclean.do`](https://github.com/debasmita-das-econ/NLSY/blob/main/dataclean.do): Loads the raw dataset, reads in the dictionary file, keeps variables of interest, renames variables, constructs variables, cleans data and save working data.
     * Output: nlsy_2019/nlsy_working.dta
     * We can get the working data by running the dataclean.do file
 

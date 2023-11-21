@@ -16,3 +16,6 @@ This repository contains STATA codes that I wrote for an RA Assignment for Prof.
     * Output: nlsy_2019/residual.dta
     * Deflate nominal income variables using personal consumption expenditure, estimate residual income by performing regression, estimate variance of the permanent income shocks  
 * [`master.do`](https://github.com/debasmita-das-econ/NLSY/blob/main/master.do): runs all .do files using one click
+
+### Author
+Debasmita Das (Purdue University, 2019)

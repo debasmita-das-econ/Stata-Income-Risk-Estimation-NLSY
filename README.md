@@ -1,7 +1,7 @@
 # NLSY - Permanent Income Risk Estimation
 
 
-This repository contains STATA codes that I wrote for an RA Assignment for Prof. Trevor Gallen (Fall 2019). In this project, I used data from the NLSY (National Longitudinal Survey Data) to **estimate the contribution of motherhood to the size of permanent income risk**.
+This repository contains STATA codes that I wrote for an RA Assignment under Prof. Trevor Gallen (Fall 2019). In this project, I used data from the NLSY (National Longitudinal Survey Data) to **estimate the contribution of motherhood to the size of permanent income risk**.
 
 ### Data and Stata Files
 -  Original Datasets and Dictionary Files (under /nlsy_2019) are downloaded from [the NLSY investigator](https://www.nlsinfo.org/investigator/pages/search.jsp?s=NLSY79)
